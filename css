@@ -1,0 +1,20 @@
+body{
+	background-color: palegreen;
+}
+h1{
+	text-align: left;
+	color: teal;
+}
+
+p{
+	color: orange;
+}
+
+img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-left: auto;
+}
